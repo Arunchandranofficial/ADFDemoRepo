@@ -1,0 +1,9 @@
+{
+	"name": "ADFCodiin1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8ac4a10-3b50-41b0-9b93-145b818f50cf",
+		"tenantId": "73af77de-ab85-4339-93a1-d9a2861deece"
+	}
+}
